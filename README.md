@@ -1,4 +1,3 @@
-[6.md](https://github.com/user-attachments/files/29463105/6.md)
 # RetailPulse — Superstore Sales Analytics & Insights Platform
 
 **RetailPulse** is an end-to-end **sales analytics project** built on the classic US Superstore dataset (2015–2018). It combines a reproducible **Python data-cleaning pipeline**, a full **exploratory data analysis (EDA)** workflow, a **business-query SQL layer**, and an interactive **Streamlit dashboard** that turns ~10K raw transactions into decision-ready KPIs, visuals, and narrative insights.
@@ -447,34 +446,15 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 ---
 
-# Author
+## 👤 Author
 
 **HARI BABU C H**
 
-- **Role:** Frontend Developer | Data Analyst
-- **GitHub:** <https://github.com/haribabux7>
-- **LinkedIn:** <https://www.linkedin.com/in/haribabux7>
-- **Portfolio:** <https://www.haribabu.me>
-- **Email:** haribabuc458@gmail.com
+Frontend Developer | Data Analyst | Chennai, India
+
+- 🌐 Portfolio: [https://www.haribabu.me](https://www.haribabu.me)
+- 💼 LinkedIn: [https://www.linkedin.com/in/haribabux8](https://www.linkedin.com/in/haribabux8)
+- 🐙 GitHub: [https://github.com/haribabux8](https://github.com/haribabux8)
+- 📧 Email: [haribabuc458@gmail.com](mailto:haribabuc458@gmail.com)
 
 ---
-
-## Acknowledgements
-
-- **Open Source Libraries** — pandas, NumPy, Plotly, Streamlit, Seaborn, Matplotlib, Jupyter.
-- **Dataset** — Public US Superstore Sales dataset.
-- **Contributors** — Everyone who opened issues, PRs, or shared feedback.
-- **Learning Resources** — Kaggle community notebooks, Streamlit docs, "Python for Data Analysis" (Wes McKinney).
-- **Inspiration** — Real-world BI dashboards from Tableau Public and the Streamlit gallery.
-
----
-
-## Project Information
-
-| Field | Value |
-|---|---|
-| Version | 1.0.0 |
-| Designed Date | November 2025 |
-| Status | Active |
-| Maintainer | Hari Babu C H |
-| License | MIT |
